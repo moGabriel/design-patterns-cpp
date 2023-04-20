@@ -1,4 +1,4 @@
-# Design patterns in c++
+# Design Patterns in c++
 
 1. Strategy Pattern
 2. Singleton Pattern
